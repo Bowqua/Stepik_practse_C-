@@ -1,2 +1,2 @@
-# Stepik_practse_C-
+# Stepik_practse_C#
 Powering skills in C#
